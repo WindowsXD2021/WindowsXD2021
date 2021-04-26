@@ -8,4 +8,4 @@ I'm WindowsXD. I am writing in many programming languages like Python, Java, C, 
 
 [Discord server](https://discord.gg/V89bddswbM)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WindowsXD2021)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WindowsXD2021)
