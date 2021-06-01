@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm WindowsXD. I am writing in many programming languages like Python, Java, C, JS, Assembly. Im my profile you can find source of my **disord bot** and **minecraft plugin**. In future there will be much more!
+I'm WindowsXD. I'm like writing in high-level languages like *Python*, but I have many projects writed in *Java*. Recently I'm tried to learn *NASM Assembly*, but I's very difficult. I'm creating also tutorials, [this](https://gist.github.com/WindowsXD2021/ef85b6f551966d8a9e4667efad028ab2) is tutorial *how to set up xampp*.
 
 ### Where you can find me
 ![Discord](https://img.shields.io/badge/Discord-WindowsXD%237703-brightgreen?logo=discord&logoColor=white)
